@@ -14,9 +14,9 @@ auth.set_access_token(access_token, access_token_secret)
 
 api = tweepy.API(auth)
 
-api.get_user('@MiliberMancilla')
+api.get_user('@UserName')
 
-nuevos_tweets = api.user_timeline(screen_name = 'MiliberMancilla',count=200, tweet_mode="extended")
+nuevos_tweets = api.user_timeline(screen_name = 'UserName',count=200, tweet_mode="extended")
 lista_tweets = [[tweet.full_text] for tweet in nuevos_tweets]
 
 
@@ -75,4 +75,4 @@ def get_all_tweets(screen_name):
 
 if __name__ == '__main__':
     # pass in the username of the account you want to download
-    get_all_tweets("NatalieVVinci")
+    get_all_tweets("UserName")
