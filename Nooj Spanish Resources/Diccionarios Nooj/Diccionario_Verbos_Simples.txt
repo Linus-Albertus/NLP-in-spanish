@@ -1,0 +1,30 @@
+﻿NooJ v4.x Compiled Dictionary
+recognizes 247282 word forms.
+375110/1 states, 2521 different analyses.
+
+Diccionario de verbos simples.
+
+Códigos:
+
+1: Primera Persona
+2: Segunda Persona
+3: Tercera Persona
+s: Singular
+p: Plural
+D: Indicativo
+P: Presente
+C: Copretérito
+R: Pretérito
+F: Futuro
+A: Postpretérito
+y: Infinitivo
+g: Gerundio
+tm: Participio Pasivo Masculino
+tf: Participio Pasivo Femenino
+I: Imperativo
+S: Subjuntivo
+
++Pron: Verbo Pronominal
++Defect: Verbo Defectivo
++Ante: Verbo Compuesto.
++Clitico

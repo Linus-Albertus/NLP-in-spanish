@@ -1,0 +1,5 @@
+# Recursos Nooj
+
+Se trata de diversos diccionarios y gramáticas para la aplicación Nooj pensadas y desarrolladas para el tratamiento del español. Incluye un diccionario de 5.000 raíces verbales conjugadas de forma simple (*Diccionario_Verbos_Simples.nod*) y compuesta (*Diccionario_Verbos_Compuestos.nod*) que conforman unas 500.000 formas en total, un diccionario de alrededor de 20.000 sustantivos comunes (*Nombres_Comunes.nod*) que fueron flexionados, unos 10.000 sustantivos propios (*Nombres_Propios.nod)*, un diccionario de adverbios, preposiciones, pronombres y conjunciones (*Otras_Clases_Palabras.nod*) y un diccionario de marcadores discursivos (*Marcadores_Discursivos.nod*). **No hay un diccionario de adjetivos todavía**.
+
+Para procesar textos con estos diccionarios se requiere del framework de [Nooj](http://www.nooj-association.org). Los diccionarios fueron compilados manualmente y verificados por un experto. La conjugación y la flexión de las formas se hizo de forma automática, por medio de gramáticas formales creadas específicamente para cada paradigma de forma manual.

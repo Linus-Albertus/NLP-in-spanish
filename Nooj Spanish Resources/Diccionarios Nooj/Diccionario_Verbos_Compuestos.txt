@@ -1,0 +1,34 @@
+﻿NooJ v3.x Compiled Dictionary
+recognizes 208838 word forms.
+1/1064013 states, 178963 different analyses.
+
+Diccionario de verbos compuestos.
+
+Códigos:
+
++Ante: Verbo Compuesto (Por ejemplo <V+Ante>)
+
+1: Primera Persona
+2: Segunda Persona
+3: Tercera Persona
+s: Singular
+p: Plural
+D: Indicativo
+P: Presente
+C: Copretérito
+R: Pretérito
+F: Futuro
+A: Postpretérito
+y: Infinitivo
+g: Gerundio
+tm: Participio Pasivo Masculino
+tf: Participio Pasivo Femenino
+I: Imperativo
+S: Subjuntivo
+
++Pron: Verbo Pronominal
++Defect: Verbo Defectivo
+
++Clitico
+
+

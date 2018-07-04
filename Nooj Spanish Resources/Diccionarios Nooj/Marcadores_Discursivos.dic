@@ -1,0 +1,79 @@
+# NooJ V3
+# Dictionary
+#
+# Input Language is: sp
+#
+# Alphabetical order is not required.
+#
+# Use inflectional & derivational paradigms' description files (.nof), e.g.:
+# Special Command: #use paradigms.nof
+#
+# Special Features: +NW (non-word) +FXC (frozen expression component) +UNAMB (unambiguous lexical entry)
+#                   +FLX= (inflectional paradigm) +DRV= (derivational paradigm)
+#
+# Special Characters: '\' '"' '+' ',' '#' ' '
+#
+ah,,MD
+ahí,,MD
+ahora,,MD
+ajá,,MD
+aparte,,MD
+así,,MD
+ay,,MD
+bien,,MD
+bueno,,MD
+chama,,MD
+chamo,,MD
+chévere,,MD
+chica,,MD
+chico,,MD
+claro,,MD
+cuando,,MD
+definitivamente,,MD
+después,,MD
+efectivamente,,MD
+encima,,MD
+entonces,,MD
+epa,,MD
+escucha,,MD
+escuche,,MD
+este,,MD
+exacto,,MD
+figúrate,,MD
+figúrese,,MD
+fíjate,,MD
+fíjese,,MD
+hombre,,MD
+imagínate,,MD
+imagínese,,MD
+incluso,,MD
+luego,,MD
+mira,,MD
+mirá,,MD
+mire,,MD
+mjm,,MD
+Mm,,MD
+muérete,,MD
+mujer,,MD
+naturalmente,,MD
+no,,MD
+oiga,,MD
+ok,,MD
+okay,ok,MD
+oye,,MD
+pana,,MD
+perdón,,MD
+perfecto,,MD
+primeramente,,MD
+primero,,MD
+pues,,MD
+realmente,,MD
+resumiendo,,MD
+segundo,,MD
+sí,,MD
+uy,,MD
+vale,,MD
+ve,,MD
+vea,,MD
+y,,MD
+ya,,MD

@@ -1,0 +1,17 @@
+﻿NooJ v3.x Compiled Dictionary
+recognizes 51255 word forms.
+123596/1 states, 597 different analyses.
+
+Diccionario de nombres comunes.
+
+Códigos:
+
++Hum: Humano
++Verb: Acción y efecto de.
++Prof: Profesión
++Gent: Gentilicio
++Anim: Animado
++d: Diminutivo
++aum
++Prop: propio
++apoc: Apócope

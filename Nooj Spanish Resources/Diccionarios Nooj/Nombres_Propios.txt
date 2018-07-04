@@ -1,0 +1,4 @@
+NooJ v4.x Compiled Dictionary
+recognizes 9924 word forms.
+25153/1 states, 4 different analyses.
+
