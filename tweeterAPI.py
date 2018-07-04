@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # encoding: utf-8
 
+# Este código está basado en el código de https://gist.github.com/yanofsky/5436496
+# y fue actualizado para trabajar con Python 3.
 import tweepy
 
 consumer_key = ''
