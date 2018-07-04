@@ -272,11 +272,11 @@ def limpiar_texto(cadena):
 # Programa principal:
 # -----------------------------------------------------------------------
 
-if os.path.exists('/Users/lino/Dropbox/Python/Silabador'):
+if os.path.exists('/DirectorioDeTRabajo'):
     # --- Apertura de los archivos: ---
 
-    texto_entrada = open('/Users/lino/Dropbox/Python/Silabador/corpus_silabador.txt', 'rt', encoding="UTF-8")
-    tabla_bigramas = open('/Users/lino/Dropbox/Python/Silabador/tabla_de_silabas.txt', 'w')
+    texto_entrada = open('/DirectorioDeTRabajo/corpus_silabador.txt', 'rt', encoding="UTF-8")
+    tabla_bigramas = open('/DirectorioDeTRabajo/tabla_de_silabas.txt', 'w')
 
 # --- Limpieza del texto y segmentación del mismo en una lista de palabras: ---
 
