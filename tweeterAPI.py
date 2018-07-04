@@ -3,11 +3,11 @@
 
 import tweepy
 
-consumer_key = 'n7o690Ir4ZzwoaNB9TOWejFN0'
-consumer_secret = 'u3XEjjdU9KvlJUJyih4PkXznCWVEygiM2i63iZcN560TNTP0jK'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '194141283-xzkGb33LAivJsDzRVavACJ4eN1xmtyMhY0t5USXk'
-access_token_secret = 'g08fK4jhrHTJ16ZAgmhScwt1KGTs3HhOmSxqDTrVoUs0V'
+access_token = ''
+access_token_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
