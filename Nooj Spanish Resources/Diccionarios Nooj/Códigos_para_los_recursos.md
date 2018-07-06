@@ -7,24 +7,38 @@ La siguiente es una lista de códigos asociados a cada una de las clases de pala
 Código: **DET**
 
 +Art: Artículo
+
 +Def: Definido/Determinado
+
 +Indef: Indefinido/Indeterminado
+
 
 ## Adverbio
 
 Código: **ADV**
 
 +interrog: Interrogativo
+
 +relat: Relativo
+
 +t: Temporal
+
 +sup: Superlativo
+
 +Apoc: Apocopado
+
 +neg: de Negación
+
 +lug: Lugar
+
 +m: Modo
+
 +c: Cantidad
+
 +afirm: Afirmación
+
 +Duda: Duda
+
 +comp: Comparación
 
 ## Conjunción
