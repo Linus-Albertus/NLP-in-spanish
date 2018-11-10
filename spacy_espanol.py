@@ -4,7 +4,10 @@ spacy.info() # Muestra los metadatos de los modelos.
 
 # Leer el modelo:
 
-# nlp = spacy.load('en') # No funciona en MacOS.
+# nlp = spacy.load('en') # No funciona en MacOS a menos que antes se corra el siguiente comando con sudo:
+# $sudo python -m spacy link MODELO es
+# siendo MODELO 'es_core_news_md' o 'es_core_news_sm' (el que se haya descargado).
+
 nlp = spacy.load('/Users/lino/anaconda3/lib/python3.6/site-packages/es_core_news_sm/es_core_news_sm-2.0.0')
 
 # Cargar un texto
